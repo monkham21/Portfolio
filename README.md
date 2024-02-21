@@ -1,5 +1,5 @@
-# portfolio
+# Portfolio
 
-This is currently a single-page site showcasing my projects.
+This is currently a single-page website showcasing my projects.
 
 [Live Preview](https://monkham21.github.io/portfolio/portfolio.html)
